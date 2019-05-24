@@ -7,3 +7,5 @@ class DashboardsController < ApplicationController
 
   def three 
 end
+
+end
